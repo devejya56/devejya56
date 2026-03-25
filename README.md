@@ -1,5 +1,4 @@
-# 🤖 Devejya Pandey | AI/ML Engineer & NLP Specialist
-
+<h1 align="center" style="color: #FF4444; font-family: 'Arial', sans-serif; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; font-size: 2.5em;">🚀 Devejya Pandey | AI/ML Engineer & NLP Specialist</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
 
