@@ -71,9 +71,6 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenDev-arc&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&background=0D1117&border_radius=12" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZenDev-arc&theme=github_dark" alt="Profile summary" />
-</p>
 
 ---
 
