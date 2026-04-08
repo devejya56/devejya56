@@ -68,8 +68,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenDev-arc&show_icons=true&theme=dark&hide_border=true&icon_color=F97316&title_color=F97316&text_color=ffffff&bg_color=0d1117&border_radius=12" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenDev-arc&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&background=0D1117&border_radius=12" alt="GitHub streak" />
-</p>
+  
 
 
 ---
