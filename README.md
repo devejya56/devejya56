@@ -1,16 +1,13 @@
-<!-- ANIME HERO -->
-
-<p align="center">
-  <!-- Replace with your own anime banner image or GIF -->
-  <img src="YOUR_ANIME_BANNER_URL" alt="Anime themed banner" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=F97316&center=true&vCenter=true&width=1400&height=70&lines=Hi%2C+I'm+Devejya+Pandey;AI%2FML+Engineer+%7C+NLP+%7C+LLMs;Building+intelligent+systems+for+real-world+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <strong>AI/ML Engineer</strong> • NLP • LLMs • Geospatial Analytics • Python Developer
+</p>
+
+<p align="center">
+  Building research-driven, production-oriented AI systems with clean engineering and practical impact.
 </p>
 
 <p align="center">
@@ -114,15 +111,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## Anime Vibe
-
-<p align="center">
-  <!-- Optional: a single clean anime GIF that matches the dark + orange theme -->
-  <img src="YOUR_ANIME_GIF_URL" alt="Anime vibe gif" width="600" />
-</p>
 
 ---
 
