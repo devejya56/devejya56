@@ -101,6 +101,7 @@
   An intelligent recruitment assistant that automates resume screening, candidate matching, and interview scheduling using LLM-powered evaluation and ranking algorithms.
 </p>
 
+<p align="center">
   <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=github&logoColor=F97316&labelColor=111111" />
   <img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge&logo=github&logoColor=F97316&labelColor=111111" />
   <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=github&logoColor=F97316&labelColor=111111" />
@@ -112,12 +113,16 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenDev-arc&show_icons=true&theme=dark&hide_border=true&title_color=F97316&icon_color=F97316&text_color=C9D1D9&ring_color=F97316&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ZenDev-arc&theme=dark&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZenDev-arc&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenDev-arc&layout=compact&theme=dark&hide_border=true&title_color=F97316&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZenDev-arc&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZenDev-arc&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZenDev-arc&theme=dark&hide_border=true" />
 </p>
 
 ---
